@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/adityadalal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adityadalal.com
+  * I am adityadalal (https://keybase.io/adityadalal) on keybase.
+  * I have a public key ASD9yHwYkfeP3rF0lTnv0xv1L21kQCdoJDOj_SLuyhKD8Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fdc87c1891f78fdeb1749539efd31bf52f6d644027682433a3fd22eeca1283f00a",
+      "host": "keybase.io",
+      "kid": "0120fdc87c1891f78fdeb1749539efd31bf52f6d644027682433a3fd22eeca1283f00a",
+      "uid": "b07e5f9c8223fd7051007f0b86f19e19",
+      "username": "adityadalal"
+    },
+    "merkle_root": {
+      "ctime": 1565834465,
+      "hash": "5d5f1899bad09bc1cafc563bf65a1df8dd003734938f9447705e9f9eb023e3a5b8c5ce4b2f7a43a95fb27c5e70dcacfd45148e9cdd506ad93e3ef11749bfc3e3",
+      "hash_meta": "aa61cea60e7da2fc9c7faa33ea2b6898e23e2a6250fedf6da19c9c63f710c261",
+      "seqno": 6019134
+    },
+    "service": {
+      "entropy": "h+qgU6giIZjgXJMBB8toNWMR",
+      "hostname": "adityadalal.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.0"
+  },
+  "ctime": 1565834478,
+  "expire_in": 504576000,
+  "prev": "261fcd4106a7db9e7d6ba6479710dd01be97454bea0274bf37213f087fb7fad3",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/ch8GJH3j96xdJU579Mb9S9tZEAnaCQzo/0i7soSg/AKp3BheWxvYWTESpcCBcQgJh/NQQan2559a6ZHlxDdAb6XRUvqAnS/NyE/CH+3+tPEIBq3jWkooV5j9bVfWO7eRMXQumToeeMPxN6z5KEIvoltAgHCo3NpZ8RAftHdaJeLoy6cIk7PheIC3DHJBYWNt817iDYQG7gpwOkbsKRYPn9UV0hWAcXTh1LKWwm+Aej8GS2urHOLjoc4A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILHmoQvh0x00RWAHoYf1N+eZ56zx+qCnyX7Xsw/Nd45so3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adityadalal
+
+==================================================================
